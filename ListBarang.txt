@@ -1,0 +1,23 @@
+Nama Barang			Harga
+
+Mie Instan 			2500
+Shampo 				11000			
+Pasta Gigi			18000
+Sikat Gigi			15000
+Sabun Cuci Piring		10000
+Minuman Kaleng			3000
+Es Krim				5000
+Makanan Ringan			10000
+Kopi Bubuk			7000
+Kapas				10000
+Bedak Bayi			20000
+Popok Bayi			45000
+Cairan Pembersih Lantai		12000
+Detergent			28000
+Pewangi Pakaian			12000
+Minyak goreng			20000
+Susu Kental Manis		8000		
+Sabun Mandi Cair		19000
+Sabun Cuci Muka			35000
+Air Mineral Galon		17000
+Rokok				20000
