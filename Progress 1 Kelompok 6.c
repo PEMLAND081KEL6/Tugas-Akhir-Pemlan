@@ -12,9 +12,9 @@ int main(){
 	char read[100];
 	FILE *pfile;
 	char input[100];
-    char string[50];
-    char barang[100] = {0};
-    char harga[1000];
+    	char string[50];
+    	char barang[100] = {0};
+    	char harga[1000];
 
    	char username[20]= "pemlankel6", password[20]= "pemlankel6";
    	char user[10], pass[10];
