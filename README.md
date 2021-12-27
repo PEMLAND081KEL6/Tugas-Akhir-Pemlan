@@ -87,7 +87,7 @@ Pilihan-pilihan tersebut ada pada menu dan kasir bisa memilih nomer di pilihan m
 ![3](https://user-images.githubusercontent.com/76531834/147479219-5874ae68-67a8-4909-bdc2-0747762950fa.jpeg)
 <br><br>
 
-![gambar4](./3.jpeg)
+![4](https://user-images.githubusercontent.com/76531834/147479394-a9c616f8-99d2-4c45-ad46-8b395c51d220.jpeg)
 <br><br>
 
 ![gambar5](./4.jpeg)
