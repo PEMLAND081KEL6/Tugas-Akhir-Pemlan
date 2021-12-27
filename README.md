@@ -76,7 +76,7 @@ Pilihan-pilihan tersebut ada pada menu dan kasir bisa memilih nomer di pilihan m
 ## Gambar Pada Aplikasi ##
 
 
-![gambar1](./re.png)
+<img width="960" alt="re" src="https://user-images.githubusercontent.com/76531834/147478634-126aadbe-278f-4a61-8aae-450b36c1f7ff.png">
 <br><br>
 
 ![1](https://user-images.githubusercontent.com/76531834/147478118-02618ea8-4237-4b7e-94c1-caa3d995f8b1.jpeg)
