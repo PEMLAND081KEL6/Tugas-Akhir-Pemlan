@@ -57,6 +57,8 @@ __Program Kasir Toko Jaya Abadi__  merupakan Program yang kami buat digunakan un
 ## __Metode-Metode Pada Program__
 
 - **Metode _Searching_**
+- <br>
+Searching dalam pemrograman  adalah proses yang sangat fundamental Guna mencari data tertentu dalam sekumpulan data tentunya yang memiliki tipe yang sama. Pencarian diperlukan untuk mencari informasi khusus dari tabel / kumpulan data pada saat lokasi yang pasti dari informasi tersebut sebelumnya tidak diketahui.  Data pada tabel biasanya disimpan dengan menggunakan tipe data Array yang dimana Array memungkinkan untuk menyimpan nilai yang bertipe sama.
   
 - **Operasi FILE**
   <br>
