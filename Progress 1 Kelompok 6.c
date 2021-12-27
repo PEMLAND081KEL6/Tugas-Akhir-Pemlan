@@ -16,7 +16,7 @@ int main(){
     char barang[100] = {0};
     char harga[1000];
 
-    char username[20]= "pemlankel6", password[20]= "pemlankel6";
+   	char username[20]= "pemlankel6", password[20]= "pemlankel6";
    	char user[10], pass[10];
    	int status = 0, salah = 0;
    	while(status < 3){
@@ -47,16 +47,16 @@ int main(){
 				exit(0);
          		}
       		}
-      	status++;
+      			status++;
    		}
    		
 		menu:
-			system("color c0");
+		system("color c0");
     		system("cls");
     		printf("[PROGRAM KASIR TOKO JAYA ABADI]\n\n");
     		printf("1.LIST BARANG\n");
     		printf("2.CARI BARANG\n");
-   		 	printf("3.KALKULASI BARANG\n");
+   		printf("3.KALKULASI BARANG\n");
     		printf("4.EXIT PROGRAM\n");
     		printf("\nPILIH PROGRAM YANG AKAN DIJALANKAN : ");
     		scanf("%d", &pilih); fflush(stdin);
