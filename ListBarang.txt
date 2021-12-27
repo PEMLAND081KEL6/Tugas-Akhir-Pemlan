@@ -1,0 +1,23 @@
+Nama Barang	Harga
+--------------------------
+Mie 	 	2500	
+Shampo 		11000			
+Coklat		18000	
+Permen		5000	
+Sabun		10000
+Minuman		3000
+Jelly		5000
+Snack		10000
+Kopi 		7000
+Kapas		10000
+Bedak 		20000
+Popok 		45000
+Baterai		12000
+Detergent	28000
+Pewangi 	12000
+Minyak 		20000
+Susu 		8000		
+Keju		19000
+Tisu		5000
+Air		17000
+Rokok		20000
