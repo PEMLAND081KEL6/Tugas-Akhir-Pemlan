@@ -62,7 +62,7 @@ __Program Kasir Toko Jaya Abadi__  merupakan Program yang kami buat digunakan un
   
 - **Operasi FILE**
   <br>
-  Penggunaan operasi FILE dalam sebuah program sangat dibutuhkan dalam pembuatan program yang sesungguhnya. Kita membutuhkan file sebagai tempat penampung data-data selama operasi program. Jika kamu menggunakan variabel biasa, data yang biasanya diolah program hanya akan tersimpan sementara dalam memory dan akan hilang ketika program close. Berbeda dengan memory, penyimpanan data berbasis file akan tersimpan terus walaupun program telah diclose maupun komputer telah di shutdown.
+  Penggunaan operasi FILE dalam sebuah program sangat dibutuhkan dalam pembuatan program yang sesungguhnya. Membutuhkan file sebagai tempat penampung data-data selama operasi program. Jika menggunakan variabel biasa, data yang biasanya diolah program hanya akan tersimpan sementara dalam memory dan akan hilang ketika program close. Berbeda dengan memory, penyimpanan data berbasis file akan tersimpan terus walaupun program telah diclose maupun komputer telah di shutdown.
 
 <hr>
 
