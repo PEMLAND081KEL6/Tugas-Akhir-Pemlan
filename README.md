@@ -79,7 +79,7 @@ Pilihan-pilihan tersebut ada pada menu dan kasir bisa memilih nomer di pilihan m
 ![gambar1](./re.png)
 <br><br>
 
-![gambar2](https://github.com/PEMLAND081KEL6/Tugas-Akhir-Pemlan/issues/1#issue-1089258029)
+![1](https://user-images.githubusercontent.com/76531834/147478118-02618ea8-4237-4b7e-94c1-caa3d995f8b1.jpeg)
 <br><br>
 
 ![gambar3](./2.jpeg)
