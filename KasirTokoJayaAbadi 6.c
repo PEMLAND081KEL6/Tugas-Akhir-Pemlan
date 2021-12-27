@@ -106,7 +106,7 @@ int main(){
                 	}
                 	i = strtol(harga, NULL, 10);
                 	fclose(in_file);
-           			printf("\n DATA TIDAK DITEMUKAN!!!\n");
+           			printf("\nDATA TIDAK DITEMUKAN!!!\n");
            			printf("\nTEKAN ENTER UNTUK KEMBALI KE MENU PROGRAM");
         			getch();
     				goto menu;
