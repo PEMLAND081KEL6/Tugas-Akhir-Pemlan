@@ -1,5 +1,6 @@
 Nama Barang	Harga
 --------------------------
+Permen		11000
 Mie 	 	2500	
 Shampo 		11000			
 Coklat		18000	
@@ -20,4 +21,6 @@ Susu 		8000
 Keju		19000
 Tisu		5000
 Air		17000
+Pensil		2000
 Rokok		20000
+Sedotan		9000
