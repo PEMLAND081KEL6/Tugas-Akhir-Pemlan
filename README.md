@@ -86,5 +86,7 @@ Pilihan-pilihan tersebut ada pada menu dan kasir bisa memilih nomer di pilihan m
 
 ![WhatsApp Image 2021-12-28 at 19 22 25](https://user-images.githubusercontent.com/90669245/147566723-2d124681-a622-4d7a-9b32-3aab9fe43c93.jpeg)
 
+![WhatsApp Image 2021-12-28 at 19 22 26](https://user-images.githubusercontent.com/90669245/147566885-fddfad41-460c-4224-871b-603c4a6a71ce.jpeg)
+
 
 
