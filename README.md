@@ -1,3 +1,5 @@
+![Untitled-2](https://user-images.githubusercontent.com/91167024/147567038-fcb815fe-4e3e-4388-b92e-64b190ed7d02.png)
+
 # __PROGRAM KASIR TOKO JAYA ABADI__
 
 ## __Deskripsi__
