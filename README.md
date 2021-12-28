@@ -52,10 +52,12 @@ __Program Kasir Toko Jaya Abadi__  merupakan Program yang kelompok kami buat dan
 
 ## __List Menu__
 
-1. List Barang
-2. Cari Barang
-3. Kalkulasi Barang
-4. Exit Program
+1. Kelola Barang
+    a. List Barang
+    b. Menambah Barang
+3. Cari Barang
+4. Kalkulasi Barang
+5. Exit Program
 
 </hr>
 
@@ -75,7 +77,7 @@ __Program Kasir Toko Jaya Abadi__  merupakan Program yang kelompok kami buat dan
 Cara penggunaannya yang pertama adalah seorang kasir memasukkan username dan password yang sudah ditentukan untuk login. apabila pengguna melakukan inputan login salah 3 kali, maka program akan berhenti dan pengguna harus menekan program lagi. 
 
 <br>
-Kemudian kasir bisa memilih beberapa pilihan yang diinginkan. Bisa memilih untuk melihat list stok barang, mencari barang dan harganya, serta menjumlah barang-barang yang dibeli oleh pelanggan. 
+Kemudian kasir bisa memilih beberapa pilihan yang diinginkan. Bisa memilih untuk melihat pengelolaan barang, mencari barang dan harganya, serta menjumlah barang-barang yang dibeli oleh pelanggan. 
 
 <br>
 Pilihan-pilihan tersebut ada pada menu dan kasir bisa memilih nomer di pilihan menu sesuai dengan opsi yang dibutuhkan kasir.
