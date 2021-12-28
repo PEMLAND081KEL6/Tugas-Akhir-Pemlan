@@ -80,7 +80,7 @@ Kemudian kasir bisa memilih beberapa pilihan yang diinginkan. Bisa memilih untuk
 <br>
 Pilihan-pilihan tersebut ada pada menu dan kasir bisa memilih nomer di pilihan menu sesuai dengan opsi yang dibutuhkan kasir.
 
-## Gambar Pada Aplikasi ##
+## Gambar Pada Aplikasi / Program Utama ##
 
 <img width="960" alt="re" src="https://user-images.githubusercontent.com/76531834/147478634-126aadbe-278f-4a61-8aae-450b36c1f7ff.png">
 
