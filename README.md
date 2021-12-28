@@ -52,12 +52,10 @@ __Program Kasir Toko Jaya Abadi__  merupakan Program yang kelompok kami buat dan
 
 ## __List Menu__
 
-1. Kelola Barang
-    a. List Barang
-    b. Menambah Barang
-3. Cari Barang
-4. Kalkulasi Barang
-5. Exit Program
+1. Kelola Barang (List Barang, Menambah Barang)
+2. Cari Barang
+3. Kalkulasi Barang
+4. Exit Program
 
 </hr>
 
