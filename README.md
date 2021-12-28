@@ -80,7 +80,7 @@ Pilihan-pilihan tersebut ada pada menu dan kasir bisa memilih nomer di pilihan m
 
 ## Gambar Pada Aplikasi ##
 
-https://github.com/PEMLAND081KEL6/Tugas-Akhir-Pemlan/issues/2#issue-1089261105
+<img width="960" alt="re" src="https://user-images.githubusercontent.com/76531834/147478634-126aadbe-278f-4a61-8aae-450b36c1f7ff.png">
 
 <img width="960" alt="2021-12-28 (2)" src="https://user-images.githubusercontent.com/90669245/147566282-7a02af6c-3735-4f5c-8838-a2c219286ad1.png">
 
