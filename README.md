@@ -21,6 +21,7 @@ __Program Kasir Toko Jaya Abadi__  merupakan Program yang kelompok kami buat dan
 
 | **Nama barang**|**Harga**|
 | ---------- |-----|
+| Kertas  |11000|
 | Mie  |2500|
 | Shampo  |11000|
 | Coklat  |18000|
@@ -41,7 +42,9 @@ __Program Kasir Toko Jaya Abadi__  merupakan Program yang kelompok kami buat dan
 |Keju | 19000|
 |Tisu | 5000|
 |Air  |17000|
+|Pensil  |2000|
 |Rokok  |20000|
+|Sedotan  |9000|
 
 </hr>
 
