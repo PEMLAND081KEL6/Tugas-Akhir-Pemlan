@@ -4,7 +4,7 @@
 
 ## __Deskripsi__
 
-__Program Kasir Toko Jaya Abadi__  merupakan Program yang kelompok kami buat dan digunakan untuk memudahkan kasir saat menghitung barang yang dibeli oleh pembeli atau pelanggan. Program ini bisa dipakai oleh semua kalangan wirausahawan terutama para wirausahawan muda yang tidak memiliki banyak modal. Hal ini karena program kami adalah program gratis yang mudah digunakan.  Program yang kami buat dimulai dengan login terlebih dahulu menggunakan username dan password yang sudah ada, selanjutnya kasir dapat melihat barang persediaan yang ada, mencari stok barang (Termasuk mengenai harga barang), hingga kalkulasi jumlah total semua harga yang hendak dibeli. Bisa disimpulkan jika program kasir ini sangat membantu dan sangat berguna untuk yang sedang membutuhkan.
+__Program Kasir Toko Jaya Abadi__  merupakan Program yang kelompok kami buat dan digunakan untuk memudahkan kasir saat menghitung barang yang dibeli oleh pembeli atau pelanggan. Program ini bisa dipakai oleh semua kalangan wirausahawan terutama para wirausahawan muda yang tidak memiliki banyak modal. Hal ini karena program kami adalah program gratis yang mudah digunakan.  Program yang kami buat dimulai dengan login terlebih dahulu menggunakan username dan password yang sudah ada, selanjutnya kasir dapat melihat barang persediaan yang ada, menambah stok barang pada list, mencari stok barang (Termasuk mengenai harga barang), hingga kalkulasi jumlah total semua harga yang hendak dibeli. Bisa disimpulkan jika program kasir ini sangat membantu dan sangat berguna untuk yang sedang membutuhkan.
 
 <hr>
 
