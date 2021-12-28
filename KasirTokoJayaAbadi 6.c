@@ -6,7 +6,6 @@ KELAS D081
 PRODI INFORMATIKA
 FAKULTAS ILMU KOMPUTER
 UNIVERSITAS PEMBANGUNAN NASIONAL "VETERAN" JAWA TIMUR
-
 ANGGOTA : 
 	1. HARITH HAKIM			(20081010080)
 	2. RATIH NUUR AZIZAH 		(20081010136)
@@ -186,19 +185,17 @@ int main(){
         			scanf("%s", barang);
             		while(fscanf(in_file,"%s", string) == 1){ 
                 		if(strstr(string, barang)!=0){
-		                    num++;
         		            fscanf(in_file, "%[^\n]", harga);
                 	    }
                 	}
     				printf("\nDATA BERISI :\n\nNama Barang\t\tHarga\n%s\t%s\n", barang, harga);
-                	num = 0;
                 	i = strtol(harga, NULL, 10);
                 	total = total + i;
                 	i = 0;
 				printf("\nINPUT BARANG LAGI? (TEKAN y UNTUK TAMBAH BARANG, n UNTUK MENYELESAIKAN KALKULASI)\n");
 				scanf("%s", &add);
 				}
-				printf("\n===========================", total);
+				printf("\n===========================");
 			   	printf("\nTOTAL HARGA ADALAH RP%d", total);
 			   	printf("\n\nTEKAN ENTER UNTUK KEMBALI KE MENU PROGRAM");
 			   	total=0;
