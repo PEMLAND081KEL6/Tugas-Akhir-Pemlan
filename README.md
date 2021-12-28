@@ -76,7 +76,7 @@ Cara penggunaannya yang pertama adalah seorang kasir memasukkan username dan pas
 Kemudian kasir bisa memilih beberapa pilihan yang diinginkan. Bisa memilih untuk melihat list stok barang, mencari barang dan harganya, serta menjumlah barang-barang yang dibeli oleh pelanggan. 
 
 <br>
-Pilihan-pilihan tersebut ada pada menu dan kasir bisa memilih nomer di pilihan menu sesuai dengan opsi yang diinginkannya.
+Pilihan-pilihan tersebut ada pada menu dan kasir bisa memilih nomer di pilihan menu sesuai dengan opsi yang dibutuhkan kasir.
 
 ## Gambar Pada Aplikasi ##
 
