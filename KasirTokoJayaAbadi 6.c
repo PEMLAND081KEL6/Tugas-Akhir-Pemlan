@@ -1,8 +1,38 @@
+/*
+PROJECT UJIAN AKHIR SEMESTER 3
+KELOMPOK 6 
+MATA KULIAH PEMROGRAMAN LANJUT
+KELAS D081
+PRODI INFORMATIKA
+FAKULTAS ILMU KOMPUTER
+UNIVERSITAS PEMBANGUNAN NASIONAL "VETERAN" JAWA TIMUR
+
+ANGGOTA : 
+	1. HARITH HAKIM			(20081010080)
+	2. RATIH NUUR AZIZAH 		(20081010136)
+	3. LINTANG PRAMUDYA ANPURNAN	(20081010129)
+	4. SALMA DIAN APRILIA		(20081010151)
+	5. REYFALDI MAULANA FIRMANSYAH	(20081010163)
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <conio.h>
 #include <windows.h>
+
+void loading(){
+	int d, l;
+	char load[] = {'*', '*', 'T', 'O', 'K', 'O', ' ', 'J', 'A', 'Y', 'A', ' ', 'A', 'B', 'A', 'D', 'I', '*', '*'};
+	
+	for(l=0; l<=18; l++){
+		printf("%c ", load[l]);
+		d = 1;
+		while(d<100000000){
+			d++;
+		}
+	}
+}
 
 int main(){
 	int pilih;
@@ -20,7 +50,8 @@ int main(){
    	char user[10], pass[10];
    	int status = 0, salah = 0;
    	while(status < 3){
-   		system("color f8");
+   		system("color f0");
+   		system("cls");
    		printf("[MENU LOGIN KASIR TOKO JAYA ABADI]\n\n");
    		printf("NOTE : HINDARI SALAH MELEBIHI 3x\n\n");
       	printf("USERNAME : ");
@@ -49,39 +80,66 @@ int main(){
       		}
       			status++;
    		}
+   		system("cls");
+    		loading();
    		
 		menu:
-		system("color c0");
     		system("cls");
     		printf("[PROGRAM KASIR TOKO JAYA ABADI]\n\n");
-    		printf("1.LIST BARANG\n");
-    		printf("2.CARI BARANG\n");
-   		printf("3.KALKULASI BARANG\n");
-    		printf("4.EXIT PROGRAM\n");
+    		printf("1. KELOLA BARANG\n");
+    		printf("2. CARI BARANG\n");
+   			printf("3. KALKULASI BARANG\n");
+    		printf("4. EXIT PROGRAM\n");
     		printf("\nPILIH PROGRAM YANG AKAN DIJALANKAN : ");
     		scanf("%d", &pilih); fflush(stdin);
     		system("cls");
    			
    			if(pilih==1){
-   				system("color e8");
-   				printf("[LIST BARANG]\n\n");
-   				pfile = fopen("ListBarang.txt", "r");
-
-    			if(pfile){
-        			while(fgets(read, sizeof(read), pfile)){
-            			printf("%s", read);
-        				}
+				int choice;
+				printf("[KELOLA BARANG]\n\n");
+				printf("1. LIST BARANG\n");
+				printf("2. TAMBAH BARANG\n");
+				printf("\nPILIH PROGRAM KELOLA BARANG YANG AKAN DIJALANKAN : ");
+    			scanf("%d", &choice); fflush(stdin);
+   				system("cls");
+    
+    			if(choice==1){
+    				printf("[LIST BARANG]\n\n");
+    				pfile = fopen("ListBarang.txt", "r");
+    				if(pfile){
+        				while(fgets(read, sizeof(read), pfile)){
+            				printf("%s", read);
+        					}
         				fclose(pfile);
-        				printf("\nTEKAN ENTER UNTUK KEMBALI KE MENU PROGRAM");
+        				printf("\n\nTEKAN ENTER UNTUK KEMBALI KE MENU PROGRAM");
         				getch();
     					goto menu;
     				}
     			else{
         			printf("ERROR!");
     				}
-			   	}
+				}
+				
+				if(choice==2){
+					char nambar[20];
+					int harbar;
+					
+					printf("[TAMBAH BARANG]\n\n");
+					printf("MASUKKAN NAMA BARANG : "); 
+					scanf("%[^\n]", &nambar); fflush(stdin);
+					printf("\nMASUKKAN HARGA BARANG : ");
+					scanf("%d", &harbar); fflush(stdin);
+					FILE *out=fopen("ListBarang.txt","a");
+					fprintf(out,"%s\t\t%d\n",nambar, harbar);
+					fclose(out);
+					printf("\nDATA TAMBAHAN BARANG SUDAH DILIST!!\n");
+        			printf("\nTEKAN ENTER UNTUK KEMBALI KE MENU PROGRAM");
+        			getch();
+    				goto menu;
+			 		}	
+			}
+			   	
 			if(pilih==2){
-				system("color a0");
    				printf("[CARI BARANG]\n\n");
    				while(barang[0] != '0'){
             		FILE *in_file = fopen("ListBarang.txt", "r");
@@ -95,7 +153,7 @@ int main(){
                 		if(strstr(string, barang)!=0){
 		                    fscanf(in_file, "%[^\n]", harga);
         		            printf("\nBARANG DITEMUKAN!!!\n");
-        		            printf("\nDATA BERISI :\n");
+        		            printf("\nDATA BERISI :\n\n");
     						printf("BARANG\t\t\tHARGA");
     						printf("\n-------------------------------");
     						printf("\n%s\t%s\n",barang, harga);
@@ -112,8 +170,8 @@ int main(){
     				goto menu;
         		}	
 			}
+			
 			if(pilih==3){
-				system("color b8");
    				printf("[KALKULASI BARANG]\n\n");
    				char add;
 				printf("INPUT BARANG PELANGGAN (TEKAN y UNTUK TAMBAH BARANG, n UNTUK MENYELESAIKAN KALKULASI)\n");
@@ -140,13 +198,16 @@ int main(){
 				printf("\nINPUT BARANG LAGI? (TEKAN y UNTUK TAMBAH BARANG, n UNTUK MENYELESAIKAN KALKULASI)\n");
 				scanf("%s", &add);
 				}
-			   	printf("TOTAL HARGA ADALAH : RP%d", total);
-			   	printf("\nTEKAN ENTER UNTUK KEMBALI KE MENU PROGRAM");
+				printf("\n===========================", total);
+			   	printf("\nTOTAL HARGA ADALAH RP%d", total);
+			   	printf("\n\nTEKAN ENTER UNTUK KEMBALI KE MENU PROGRAM");
+			   	total=0;
         		getch();
     			goto menu;
 			}
+			
 			if(pilih==4){
-				system("color d0");
+				system("color f0");
    				printf("TERIMA KASIH TELAH MENJALANKAN PROGRAM");
 			   }
 	return 0;
