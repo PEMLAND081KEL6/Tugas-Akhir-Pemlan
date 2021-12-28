@@ -90,5 +90,11 @@ Pilihan-pilihan tersebut ada pada menu dan kasir bisa memilih nomer di pilihan m
 
 ![WhatsApp Image 2021-12-28 at 19 22 26](https://user-images.githubusercontent.com/90669245/147566885-fddfad41-460c-4224-871b-603c4a6a71ce.jpeg)
 
+![WhatsApp Image 2021-12-28 at 19 22 26 (1)](https://user-images.githubusercontent.com/90669245/147566959-823d3c94-e1b2-4e5f-b8de-4ec08b7f1c2b.jpeg)
 
+![WhatsApp Image 2021-12-28 at 19 22 26 (2)](https://user-images.githubusercontent.com/90669245/147567035-eabeb515-ebaa-4237-a411-c347ba10ac70.jpeg)
+
+![WhatsApp Image 2021-12-28 at 19 22 26 (3)](https://user-images.githubusercontent.com/90669245/147567111-4c90fc74-9111-4706-be57-92c5d2e73ed8.jpeg)
+
+![WhatsApp Image 2021-12-28 at 19 22 27](https://user-images.githubusercontent.com/90669245/147567176-eab5c020-4be6-44c6-9702-6f0bb20a1db7.jpeg)
 
